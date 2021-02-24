@@ -1,0 +1,21 @@
+.header1{
+  color: blue;
+  text-align: center;
+}
+
+.textfield{
+  font: 20px Georgia;
+  font-weight: bolder;
+  text-align: center;
+  color: aqua;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.background{
+  background-color: rgb(219, 196, 255);
+}
